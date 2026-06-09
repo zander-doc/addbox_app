@@ -1,0 +1,19 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# VSCode
+.vscode/
+
+# PocketBase
+pocketbase-master/pb_data/
+pocketbase-master/pocketbase.exe
+
+# Sistemas
+Thumbs.db
+.DS_Store
+
+# Backups
+backup/
